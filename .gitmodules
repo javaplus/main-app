@@ -1,0 +1,3 @@
+[submodule "projects/module-one"]
+	path = projects/module-one
+	url = https://github.com/javaplus/module-one.git
